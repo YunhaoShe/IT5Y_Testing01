@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yunhao She - Coffee App 3</string>
+    <string name="name_text">Enter your name</string>
+    <string name="topping">TOPPINGS</string>
+    <string name="whippedCream">Whipped Cram</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="sendEmail">Email Order</string>
+    <string name="saveDate">SAVA DATA</string>
+    <string name="salesReport">GENERATE REPORT</string>
+    <string name="saleDetailHeader">SALES REPORT</string>
+    <string name="reOrder">RE-ORDER</string>
+</resources>
